@@ -5,7 +5,7 @@ Bu uygulama şu an geliştirme aşamasındadır. Yatırım tavsiyesi için kulla
 
 ## Telegramdan takip edebilmek için 
 
-```@template```
+```@AlgoHelperby0xEnsarbot```
 
 
 
